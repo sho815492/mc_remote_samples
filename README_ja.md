@@ -1,8 +1,8 @@
-# minecraft_remote_samples / Naohiro2g
+# タイトル
 
-Minecraft Remote（マイクラリモコン）のAPIを使いPythonでユーザーコードを書く出発点
+説明
 ***
-このドキュメントは、Reveal.jsに対応しています。
+間渕章太郎
 
 --
 
